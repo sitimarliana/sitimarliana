@@ -41,7 +41,7 @@ Find & Reach out to me!"
 
 <!--END_SECTION:waka-->
 
-#### Github Stats
+### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=sitimarliana&count_private=true&theme=tokyonight&hide=contribs,prs)
 
