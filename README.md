@@ -22,7 +22,7 @@ Find & Reach out to me!"
 - 📥 Reach out to me on LinkedIn [Siti Marliana](https://www.linkedin.com/in/siti-marliana/)
 - 💻 All about my experience [My CV/Resume](https://www.linkedin.com/in/siti-marliana/).
 - 📑 All about my Project [Software QA](https://www.linkedin.com/in/siti-marliana/).
-- 📑 All about my Project [Other](hhttps://dribbble.com/sitimarliana).
+- 📑 All about my Project [Other](https://dribbble.com/sitimarliana).
 
 
 ### Technologies
