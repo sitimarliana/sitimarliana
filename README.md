@@ -18,10 +18,10 @@ Find & Reach out to me!"
 ### What I currently Do
 
 - 🔭 I’m currently working at [Refactory](https://refactory.id/)
-- 🌾 I’m currently learning about (Automation with Cypress and  Katalon)
+- 🌾 I’m currently learning about (Automation with Robot Framework and  Katalon)
 - 📥 Reach out to me on LinkedIn [Siti Marliana](https://www.linkedin.com/in/siti-marliana/)
-- 💻 All about my experience [My CV/Resume](https://www.linkedin.com/in/siti-marliana/).
-- 📑 All about my Project [Software QA](https://www.linkedin.com/in/siti-marliana/).
+- 💻 All about my experience [My CV/Resume](https://drive.google.com/file/d/1r7J0ZoCB6IERORi4hOfbU0dqrpcLKHdW/view?usp=drive_link).
+- 📑 All about my Project [Software QA](https://sites.google.com/view/sitimarliana/).
 - 📑 All about my Project [Other](https://dribbble.com/sitimarliana).
 
 
@@ -30,12 +30,14 @@ Find & Reach out to me!"
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Postman Badge](https://img.shields.io/badge/-Postman-ff713e?style=for-the-badge&labelColor=black&logo=postman&logoColor=ff713e)](#) 
-[![Cypress Badge](https://img.shields.io/badge/-Cypress-A7D397?style=for-the-badge&labelColor=black&logo=cypress&logoColor=A7D397)](#) 
+[![Robot Framework Badge](https://img.shields.io/badge/-RobotFramework-FFFFDD?style=for-the-badge&labelColor=black&logo=RobotFramework&logoColor=FFFFDD)](#) 
 [![Azure Badge](https://img.shields.io/badge/-Azure_Service-007acc?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=007acc)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Swager Badge](https://img.shields.io/badge/-Swager-729d08?style=for-the-badge&labelColor=black&logo=javascript&logoColor=729d08)](#) 
+[![Swagger Badge](https://img.shields.io/badge/-Swagger-729d08?style=for-the-badge&labelColor=black&logo=swagger&logoColor=729d08)](#) 
 [![MYSQL Badge](https://img.shields.io/badge/-mysql-FFFFDD?style=for-the-badge&labelColor=black&logo=mysql&logoColor=FFFFDD)](#)
-[![Laravel Badge](https://img.shields.io/badge/-laravel-f04033?style=for-the-badge&labelColor=black&logo=laravel&logoColor=#f04033)](#)
+[![Laravel Badge](https://img.shields.io/badge/-laravel-f04033?style=for-the-badge&labelColor=black&logo=laravel&logoColor=f04033)](#)
+[![Python Badge](https://img.shields.io/badge/-python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#)
+
 
 
 
