@@ -9,7 +9,7 @@ I'm Siti Marliana as Software Quality Assurance and Lifelong Learner. I dedicate
 Find & Reach out to me!"
 
 [![Linkedin Badge](https://img.shields.io/badge/-Siti_Marliana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siti-marliana/)  [![Mail Badge](https://img.shields.io/badge/-Siti_Marliana-C51605?style=flat&labelColor=C51605&logo=gmail&logoColor=white)](sitimarliana1703@gmail.com)
- [![Medium Badge](https://img.shields.io/badge/-Siti_Marliana-4F4A45?style=flat&labelColor=4F4A45&logo=medium&logoColor=white)](https://medium.com/@msitimarliana)
+[![Medium Badge](https://img.shields.io/badge/-Siti_Marliana-4F4A45?style=flat&labelColor=4F4A45&logo=medium&logoColor=white)](https://medium.com/@msitimarliana)
 
 
 
@@ -20,7 +20,7 @@ Find & Reach out to me!"
 - 🔭 I’m currently working at [Refactory](https://refactory.id/)
 - 🌾 I’m currently learning about (Automation with Robot Framework and  Katalon)
 - 📥 Reach out to me on LinkedIn [Siti Marliana](https://www.linkedin.com/in/siti-marliana/)
-- 💻 All about my experience [My CV/Resume](https://drive.google.com/file/d/1r7J0ZoCB6IERORi4hOfbU0dqrpcLKHdW/view?usp=drive_link).
+- 💻 All about my experience [My CV/Resume](https://drive.google.com/file/d/1To0lUrZc68uHvhkdeRFErnGgKCyBuY1I/view?usp=sharing).
 - 📑 All about my Project [Software QA](https://sites.google.com/view/sitimarliana/).
 - 📑 All about my Project [Other](https://dribbble.com/sitimarliana).
 
