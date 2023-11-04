@@ -20,7 +20,7 @@ Find & Reach out to me!"
 - 🔭 I’m currently working at [Refactory](https://refactory.id/)
 - 🌾 I’m currently learning about (Automation with Robot Framework and  Katalon)
 - 📥 Reach out to me on LinkedIn [Siti Marliana](https://www.linkedin.com/in/siti-marliana/)
-- 💻 All about my experience [My CV/Resume](https://drive.google.com/file/d/1To0lUrZc68uHvhkdeRFErnGgKCyBuY1I/view?usp=sharing).
+- 💻 All about my experience [My CV/Resume](https://drive.google.com/file/d/1Qpm6Yl0vejInWQeTiQo-OVbxM4hz6L-b/view?usp=sharing).
 - 📑 All about my Project [Software QA](https://sites.google.com/view/sitimarliana/).
 - 📑 All about my Project [Other](https://dribbble.com/sitimarliana).
 
